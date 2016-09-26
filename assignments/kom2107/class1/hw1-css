@@ -1,0 +1,39 @@
+html{
+	background-color: #D1D1D1;
+}
+
+body{
+	width: 600px;
+  margin: 0 auto;
+  background-color: #D1D1D1;
+  padding: 0 20px 20px 20px;
+}
+
+img{
+	display: block;
+  margin: 0 auto;
+}
+
+h1{
+	font-size: 16px;
+	font-family: 'Yatra One', cursive;
+	text-align: center;
+	letter-spacing: 4px
+}
+
+h4{
+	font-size: 14px;
+	font-family: 'Yatra One', cursive;
+	text-align: center;
+	letter-spacing: 8px
+}
+
+p {
+	font-size: 10px;
+	font-family: 'Josefin Slab', serif;
+}
+
+ul{
+	font-size: 12px;
+	font-family: 'Josefin Slab', serif;
+}
